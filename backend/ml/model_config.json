@@ -1,0 +1,10 @@
+{
+  "model": "weighted-threshold-baseline",
+  "threshold": 0.65,
+  "features": [
+    "temperature",
+    "vibration",
+    "motor_current",
+    "cycle_count"
+  ]
+}

@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+*.db
+.env
+.env.*
+!.env.example
+.streamlit/
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+
+# Local tooling and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
